@@ -1,14 +1,34 @@
 import pandas as pd
 import numpy as np
+import sklearn
+from sklearn.metrics import mean_absolute_error
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeRegressor
 
 # load cleaned dataset
 layoffs_ml = pd.read_csv("layoffs_clean.csv", header=0)
+layoffs_ml.reset_index(drop=True, inplace=True)
 
-#Creating a dataset of predictors and target
-X = layoffs_ml.iloc[:, 3:9].values #predictor dataset
-y = layoffs_ml.iloc[:, 2].values #target dataset
+stage = layoffs_ml.stage.astype('category').cat.codes
+industry = layoffs_ml.industry.astype('category').cat.codes
+region = layoffs_ml.region.astype('category').cat.codes
 
-# Splitting the dataset into the Training set and Test set
+layoffs_features = ['stage', 'industry', 'region']
+
+layoffs_ml["stage"] = layoffs_ml["stage"].astype('category')
+layoffs_ml['stage'].astype('category').cat.codes
+
+layoffs_ml["industry"] = layoffs_ml["industry"].astype('category')
+layoffs_ml['industry'].astype('category').cat.codes
+
+layoffs_ml["region"] = layoffs_ml["region"].astype('category')
+layoffs_ml['region'].astype('category').cat.codes
+
+X = layoff_features.values 
+y = layoffs_ml.percentage_laid_off #target dataset
+
+X = X.reshape(-1, 1)
+
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.20, random_state = 0)
 
