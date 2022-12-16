@@ -1,0 +1,483 @@
+,company,industry,percentage_laid_off,stage,region
+0,Thumbtack,Consumer,14.000000000000002,Series I,West
+1,Komodo Health,Healthcare,9.0,Series C,West
+2,Pluralsight,Education,20.0,Acquired,West
+4,Outschool,Education,25.0,Series D,West
+13,C2FO,Finance,2.0,Series H,Midwest
+17,ZenLedger,Crypto,10.0,Series B,West
+18,Airtable,Product,20.0,Series F,West
+22,BlackLine,Finance,5.0,Private Equity,West
+24,TechTarget,Marketing,5.0,IPO,Northeast
+26,CyCognito,Security,15.0,Series C,West
+27,Armis,Security,4.0,Private Equity,West
+28,Bakkt,Crypto,15.0,IPO,South
+29,Blue Apron,Food,10.0,IPO,Northeast
+31,Nerdy,Education,17.0,IPO,Midwest
+32,Vanta,Security,14.000000000000002,Series B,West
+35,Plaid,Finance,20.0,Series D,West
+36,Motive,Transportation,6.0,Series F,West
+37,Relativity,Legal,10.0,Private Equity,Midwest
+38,Voi,Transportation,13.0,Series D,0
+39,Integral Ad Science,Marketing,13.0,Acquired,Northeast
+40,Grover,Retail,10.0,Unknown,0
+41,Lev,Real Estate,30.0,Series B,Northeast
+42,Lithic,Finance,18.0,Series C,Northeast
+43,CircleCI,Product,17.0,Series F,West
+46,Doma,Finance,40.0,IPO,West
+47,BuzzFeed,Media,12.0,IPO,Northeast
+48,Weedmaps,Other,25.0,Acquired,West
+50,Chipper Cash,Finance,12.5,Series C,West
+51,Stash,Finance,8.0,Unknown,Northeast
+54,Nextiva,Other,17.0,Private Equity,West
+55,OneStudyTeam,Healthcare,25.0,Series D,Northeast
+56,Zuora,Finance,11.0,IPO,West
+58,Aqua Security,Security,10.0,Series E,Northeast
+67,Polly,Finance,15.0,Series C,0
+68,Lora DiCarlo,Consumer,100.0,Unknown,0
+70,Bizzabo,Marketing,37.0,Series E,Northeast
+71,BloomTech,Education,50.0,Unknown,West
+72,Netlify,Product,16.0,Series D,West
+73,Podium,Support,12.0,Series D,0
+74,SQZ Biotech,Healthcare,60.0,IPO,Northeast
+75,Strava,Fitness,14.000000000000002,Series F,West
+76,Synlogic,Healthcare,25.0,IPO,Northeast
+78,DoorDash,Food,6.0,IPO,West
+79,Kraken,Crypto,30.0,Unknown,West
+80,Happy Money,Finance,34.0,Series D,West
+82,Wonder,Food,7.000000000000001,Series B,Northeast
+83,Grin,Marketing,13.0,Series B,0
+88,Elastic,Data,13.0,IPO,West
+94,Bitfront,Crypto,100.0,Unknown,West
+95,Codexis,Healthcare,18.0,IPO,West
+96,Firework,Retail,10.0,Series B,West
+106,Candy Digital,Crypto,33.0,Series A,Northeast
+108,BlockFi,Crypto,100.0,Series E,Northeast
+111,NCX,Energy,40.0,Series B,West
+120,Assure,Finance,100.0,Seed,West
+128,Kitopi,Food,10.0,Series C,0
+130,GloriFi,Finance,100.0,Unknown,South
+132,Carvana,Transportation,8.0,IPO,West
+133,Nuro,Transportation,20.0,Series D,West
+134,Synthego,Healthcare,20.0,Series E,West
+138,StoryBlocks,Media,25.0,Acquired,0
+139,Roku,Media,7.000000000000001,IPO,West
+144,Capitolis,Finance,25.0,Series D,Northeast
+148,Kandji,Other,17.0,Series C,West
+149,Morning Brew,Media,14.000000000000002,Acquired,Northeast
+151,Amazon,Retail,3.0,IPO,West
+152,Cisco,Infrastructure,5.0,IPO,West
+155,SimilarWeb,Other,10.0,IPO,Northeast
+156,Salsify,Retail,11.0,Series F,Northeast
+157,Lokalise,Other,23.0,Series B,Northeast
+158,Yotpo,Marketing,9.0,Unknown,Northeast
+159,Pear Therapeutics,Healthcare,22.0,IPO,Northeast
+162,Homeward,Real Estate,25.0,Unknown,South
+165,Kite,Product,100.0,Series A,West
+166,UiPath,Data,6.0,IPO,Northeast
+167,Asana,Other,9.0,IPO,West
+168,OwnBackup,Security,17.0,Series E,Northeast
+170,Productboard,Product,20.0,Series D,West
+172,Protocol,Media,100.0,Acquired,West
+176,CaptivateIQ,Sales,10.0,Series C,West
+178,Nirvana Money,Finance,100.0,Unknown,South
+180,OfferUp,Retail,19.0,Unknown,West
+181,Outside,Media,12.0,Series B,Midwest
+182,Rubicon Technologies,Other,11.0,IPO,Midwest
+186,Illumina,Healthcare,5.0,IPO,West
+188,iFit,Fitness,20.0,Private Equity,0
+189,Ribbon,Real Estate,85.0,Series C,Northeast
+191,Intercom,Support,13.0,Series D,West
+194,Pear Therapeutics,Healthcare,22.0,IPO,Northeast
+196,Cloudinary,Media,8.0,Unknown,West
+199,Veev,Real Estate,30.0,Series D,West
+201,Offerpad,Real Estate,7.000000000000001,IPO,West
+203,Juul,Consumer,30.0,Unknown,West
+204,Blend,Finance,6.0,IPO,West
+207,SoundHound,Other,10.0,IPO,West
+209,Ocavu,Crypto,48.0,Series A,0
+210,Avast,Security,25.0,Unknown,West
+212,SendCloud,Logistics,10.0,Series C,0
+214,Wavely,HR,100.0,Unknown,West
+216,Meta,Consumer,13.0,IPO,West
+217,Redfin,Real Estate,13.0,IPO,West
+218,Flyhomes,Real Estate,40.0,Series C,West
+220,Root Insurance,Finance,20.0,IPO,Midwest
+221,Liftoff,Marketing,15.0,Acquired,West
+224,Kabam,Consumer,7.000000000000001,Acquired,West
+229,Faze Medicines,Healthcare,100.0,Series B,Northeast
+230,RingCentral,Other,10.0,IPO,West
+232,Repertoire Immune Medicines,Healthcare,50.0,Series B,Northeast
+233,Astra,Aerospace,16.0,IPO,West
+235,NanoString,Healthcare,10.0,IPO,West
+236,SADA,Other,11.0,Acquired,West
+237,Salesforce,Sales,1.0,IPO,West
+239,Zendesk,Support,5.0,Acquired,West
+241,Code42,Security,15.0,Unknown,Midwest
+242,Domino Data Lab,Data,25.0,Series F,West
+243,Varonis,Security,5.0,IPO,Northeast
+246,Twitter,Consumer,50.0,IPO,West
+251,Benitago Group,Retail,14.000000000000002,Series A,Northeast
+252,Mythical Games,Crypto,10.0,Series C,West
+253,Stripe,Finance,14.000000000000002,Series H,West
+254,Lyft,Transportation,13.0,IPO,West
+255,Pleo,Finance,15.0,Series C,0
+257,Shippo,Logistics,20.0,Series E,West
+258,Affirm,Finance,1.0,IPO,West
+260,LiveRamp,Marketing,10.0,IPO,West
+262,Rubius,Healthcare,82.0,IPO,Northeast
+263,Snapdocs,Real Estate,15.0,Series D,West
+265,Opendoor,Real Estate,18.0,IPO,West
+266,Chime,Finance,12.0,Series G,West
+267,Chargebee,Finance,10.0,Series H,West
+268,Dapper Labs,Crypto,22.0,Series D,0
+271,Iron Ox,Food,50.0,Series C,West
+272,Digital Currency Gruop,Crypto,13.0,Unknown,Northeast
+277,Upstart,Finance,7.000000000000001,IPO,West
+278,Gem,Recruiting,33.0,Series C,West
+284,Brightline,Healthcare,20.0,Series C,West
+288,EquityZen,Finance,27.0,Series B,Northeast
+289,Equitybee,Finance,20.0,Series B,West
+291,Fifth Season,Food,100.0,Series B,0
+295,Recharge,Finance,17.0,Series B,West
+299,MindBody,Fitness,15.0,IPO,0
+300,Zillow,Real Estate,5.0,IPO,West
+301,Cybereason,Security,17.0,Series F,Northeast
+302,Argo AI,Transportation,100.0,Unknown,0
+303,GoFundMe,Finance,12.0,Series A,West
+304,Fundbox,Finance,42.0,Series D,West
+305,Embroker,Finance,12.0,Series C,West
+307,Callisto Media,Media,35.0,Series D,West
+309,Cerebral,Healthcare,20.0,Series C,West
+310,Snyk,Security,14.000000000000002,Series F,Northeast
+314,Khoros,Sales,10.0,Private Equity,South
+315,F5,Security,1.0,IPO,West
+318,Volta,Transportation,54.0,IPO,West
+320,Zeus Living,Real Estate,46.0,Series C,West
+321,Loom,Product,11.0,Series C,West
+324,Roofstock,Real Estate,20.0,Series E,West
+325,Starry,Other,50.0,IPO,Northeast
+327,AtoB,Finance,30.0,Series B,West
+332,Faire,Retail,7.000000000000001,Series G,West
+333,Leafly,Retail,21.0,IPO,West
+338,Flipboard,Media,21.0,Unknown,West
+339,Clear Capital,Real Estate,27.0,Unknown,West
+340,Beyond Meat,Food,19.0,IPO,West
+344,Playdots,Consumer,100.0,Acquired,Northeast
+347,6sense,Sales,10.0,Series E,West
+349,Noom,Healthcare,10.0,Series F,Northeast
+351,Brex,Finance,11.0,Series D,West
+352,Pacaso,Real Estate,30.0,Series C,West
+354,Udacity,Education,13.0,Unknown,West
+360,Momentive,Marketing,11.0,IPO,West
+361,Pavilion Data,Infrastructure,96.0,Series D,West
+362,Redesign Health,Healthcare,20.0,Series C,Northeast
+363,Nyriad,Infrastructure,33.0,Unknown,South
+364,BioMarin,Healthcare,4.0,IPO,West
+367,Peloton,Fitness,12.0,IPO,Northeast
+369,Turnitin,Education,5.0,Acquired,West
+370,Impossible Foods,Food,6.0,Series H,West
+373,Foresight Insurance,Finance,40.0,Series B,West
+375,Built In,Recruiting,25.0,Series C,Midwest
+376,TwinStrand,Healthcare,50.0,Series B,West
+377,Homie,Real Estate,13.0,Series B,West
+378,Fivetran,Data,5.0,Series D,West
+381,ActiveCampaign,Marketing,15.0,Series C,Midwest
+384,Spin,Transportation,10.0,Acquired,West
+386,Pastel,Food,100.0,Unknown,West
+389,Mux,Infrastructure,20.0,Series D,West
+392,DocuSign,Sales,9.0,IPO,West
+394,Volta,Transportation,10.0,IPO,West
+395,Divvy Homes,Real Estate,12.0,Series B,West
+400,Foxtrot,Food,3.5000000000000004,Series C,Midwest
+402,Pesto,Other,100.0,Seed,West
+403,NYDIG,Crypto,33.0,Private Equity,Northeast
+406,Kitty Hawk,Aerospace,100.0,Unknown,West
+412,Ouster,Transportation,10.0,IPO,West
+415,Vesalius Therapeutics,Healthcare,43.0,Series B,Northeast
+416,VideoAmp,Marketing,2.0,Series F,West
+420,LivePerson,Support,11.0,IPO,Northeast
+422,WorkRamp,HR,20.0,Series C,West
+424,NextRoll,Marketing,7.000000000000001,Unknown,West
+425,Twilio,Other,11.0,IPO,West
+430,Rubius,Healthcare,75.0,IPO,Northeast
+432,Taboola,Marketing,6.0,IPO,Northeast
+433,Patreon,Media,17.0,Series F,West
+434,FullStory,Marketing,12.0,Unknown,South
+439,Karbon,Other,23.0,Series B,West
+440,Rent the Runway,Retail,24.0,IPO,Northeast
+447,CommonBond,Finance,100.0,Series D,Northeast
+449,Flowhub,Retail,15.0,Unknown,West
+454,BigBear.ai,Data,7.000000000000001,IPO,0
+460,Intercom,Support,5.0,Series D,West
+461,Pendo,Product,5.0,Series F,0
+462,Demandbase,Sales,3.0,Series H,West
+464,Medly,Healthcare,50.0,Series C,Northeast
+466,Brave Care,Healthcare,33.0,Series B,West
+468,Juniper Square,Real Estate,14.000000000000002,Series C,West
+469,Medium,Media,25.0,Unknown,West
+473,Innovaccer,Healthcare,8.0,Series E,West
+477,Snap,Consumer,20.0,IPO,West
+478,GoodRx,Healthcare,16.0,IPO,West
+480,Hippo Insurance,Finance,10.0,IPO,West
+483,Apartment List,Real Estate,10.0,Series D,West
+486,The Wing,Real Estate,100.0,Series C,Northeast
+491,54gene,Healthcare,30.0,Series B,0
+497,Argyle,Finance,7.000000000000001,Series B,Northeast
+501,Impact.com,Marketing,10.0,Private Equity,West
+502,ShipBob,Logistics,7.000000000000001,Series E,Midwest
+503,Reali,Real Estate,100.0,Series B,West
+504,Loop,Finance,20.0,Series A,0
+507,Packable,Retail,20.0,Unknown,Northeast
+509,Skedulo,HR,8.0,Series C,West
+510,Plato,HR,50.0,Seed,West
+511,DataRobot,Data,26.0,Series G,Northeast
+514,Mr. Yum,Food,17.0,Series A,0
+517,Tufin,Security,10.0,Acquired,Northeast
+518,Amperity,Marketing,3.0,Series D,West
+519,Wayfair,Retail,5.0,IPO,Northeast
+522,New Relic,Infrastructure,5.0,IPO,West
+523,Wheel,Healthcare,17.0,Series C,South
+525,Thirty Madison,Healthcare,10.0,Series C,Northeast
+527,Malwarebytes,Security,14.000000000000002,Series B,West
+531,Genesis,Crypto,20.0,Series A,Northeast
+535,Woven,HR,15.0,Series A,0
+537,Edmodo,Education,100.0,Acquired,West
+538,Snapdocs,Real Estate,10.0,Series D,West
+540,Sema4,Healthcare,13.0,IPO,Northeast
+541,Blend,Finance,12.0,IPO,West
+542,ContraFect,Healthcare,37.0,IPO,Northeast
+543,ThredUp,Retail,15.0,IPO,Midwest
+546,Peloton,Fitness,13.0,IPO,Northeast
+547,Core Scientific,Crypto,10.0,IPO,South
+549,Truepill,Healthcare,33.0,Series D,West
+550,Calm,Healthcare,20.0,Series C,West
+551,FourKites,Logistics,8.0,Series D,Midwest
+555,Guidewire,Finance,2.0,IPO,West
+558,Homeward,Real Estate,20.0,Series B,South
+560,Vedanta Biosciences,Healthcare,20.0,Series D,Northeast
+561,GoHealth,Healthcare,20.0,IPO,Midwest
+563,Nutanix,Infrastructure,4.0,IPO,West
+564,Quanterix,Healthcare,25.0,IPO,Northeast
+569,Shogun,Retail,30.0,Series C,West
+572,Berkeley Lights,Healthcare,12.0,IPO,West
+573,DailyPay,Finance,15.0,Unknown,Northeast
+574,Haus,Food,100.0,Seed,West
+575,Kaltura,Media,10.0,IPO,Northeast
+578,Groupon,Retail,15.0,IPO,Midwest
+584,Daily Harvest,Food,15.0,Series D,Northeast
+586,iRobot,Consumer,10.0,Acquired,Northeast
+592,Doma,Finance,13.0,IPO,West
+594,Jam City,Consumer,17.0,Unknown,West
+595,10X Genomics,Healthcare,8.0,IPO,West
+598,On Deck,Education,33.0,Series A,West
+601,Medly,Healthcare,16.0,Series C,Northeast
+604,Weedmaps,Other,10.0,Acquired,West
+611,Puppet,Infrastructure,15.0,Acquired,West
+614,Robinhood,Finance,23.0,IPO,West
+615,Latch,Security,37.0,IPO,Northeast
+618,Nylas,Product,25.0,Series C,West
+619,Outreach,Sales,5.0,Series G,West
+623,Stedi,Product,30.0,Series B,Midwest
+624,Glossier,Retail,8.0,Series E,Northeast
+625,Butterfly Network,Healthcare,10.0,IPO,0
+632,Perceptive Automata,Transportation,100.0,Series A,Northeast
+641,Quantcast,Marketing,6.0,Series C,West
+647,Career Karma,Education,33.0,Series B,West
+648,Metromile,Finance,20.0,Acquired,West
+652,2U,Education,20.0,IPO,0
+655,Change.org,Other,19.0,Series D,West
+657,Turntide,Energy,20.0,Unknown,West
+658,Rivian,Transportation,6.0,IPO,Midwest
+659,Vox Media,Media,2.0,Series F,0
+666,Outbrain,Marketing,3.0,IPO,Northeast
+667,Dover,Recruiting,30.0,Series A,West
+670,Pear Therapeutics ,Healthcare,9.0,IPO,Northeast
+671, Included Health,Healthcare,6.0,Series E,West
+673,Eucalyptus,Healthcare,20.0,Series C,0
+676,Clarify Health,Healthcare,5.0,Series D,West
+678,Boosted Commerce,Retail,5.0,Series B,West
+683,Callisto Media,Media,35.0,Series D,West
+684,AppGate,Security,22.0,IPO,South
+685,WHOOP,Fitness,15.0,Series F,Northeast
+686,Rad Power Bikes,Transportation,10.0,Series D,West
+687,Lunchbox,Food,33.0,Series B,Northeast
+688,RealSelf,Healthcare,5.0,Series B,West
+689,98point6,Healthcare,10.0,Series E,West
+691,InVision,Product,50.0,Series F,Northeast
+695,Flyhomes,Real Estate,20.0,Series C,West
+698,Lyft,Transportation,2.0,IPO,West
+705,Olive,Healthcare,31.0,Series H,Midwest
+709,Capsule,Healthcare,13.0,Series D,Northeast
+711,Gemini,Crypto,7.000000000000001,Unknown,Northeast
+712,Lusha,Marketing,10.0,Series B,Northeast
+714,Freshly,Food,25.0,Acquired,Northeast
+715,Hydrow,Fitness,35.0,Series D,Northeast
+717,Vimeo,Consumer,6.0,IPO,Northeast
+719,Project44,Logistics,5.0,Unknown,Midwest
+722,StyleSeat,Consumer,17.0,Series C,West
+724,The Mom Project,HR,15.0,Series C,Midwest
+725,Unstoppable Domains,Crypto,25.0,Series B,West
+726,Kiavi,Real Estate,7.000000000000001,Series E,West
+729,OpenSea,Crypto,20.0,Series C,Northeast
+731,Tonal,Fitness,35.0,Series E,West
+732,Fabric,Logistics,40.0,Series C,Northeast
+740,Papa,Other,15.0,Series D,South
+741,Gopuff,Food,10.0,Series H,Northeast
+744,Hubilo,Marketing,12.0,Series B,West
+750,SundaySky,Marketing,13.0,Series D,Northeast
+752,Forward,Healthcare,5.0,Series D,West
+753,Ignite,Crypto,50.0,Series A,West
+756,Butler Hospitality,Food,100.0,Series B,Northeast
+757,Calibrate,Healthcare,24.0,Series B,Northeast
+758,NextRoll,Marketing,3.0,Unknown,West
+759,Argo AI,Transportation,5.0,Unknown,0
+760,Next Insurance,Finance,17.0,Series E,West
+762,Emotive,Marketing,18.0,Series B,West
+763,Cedar,Healthcare,24.0,Series D,Northeast
+765,Remote,HR,9.0,Series C,West
+767,Anodot,Data,27.0,Series C,0
+768,SQream,Data,18.0,Series B,Northeast
+771,Bizzabo,Marketing,30.0,Series E,Northeast
+773,Verbit,Data,10.0,Series E,Northeast
+774,Outschool,Education,18.0,Series D,West
+776,Transmit Security,Security,7.000000000000001,Series A,Northeast
+777,Thimble,Finance,33.0,Series A,Northeast
+785,Celsius,Crypto,25.0,Series B,Northeast
+789,WanderJaunt,Travel,100.0,Series B,West
+790,Canoo,Transportation,6.0,IPO,West
+792,Teleport,Infrastructure,6.0,Series C,West
+794,Enjoy,Retail,18.0,IPO,West
+796,Stash Financial,Finance,8.0,Unknown,Northeast
+797,Nate,Retail,20.0,Series A,Northeast
+799,Stream,Product,12.0,Series B,Midwest
+801,Abra,Crypto,5.0,Series C,West
+802,Gavelytics,Legal,100.0,Seed,West
+804,Sundae,Real Estate,15.0,Series C,West
+806,Unity,Other,4.0,IPO,West
+807,Niantic,Consumer,8.0,Series D,West
+809,Qumulo,Data,19.0,Series E,West
+814,Baton,Transportation,25.0,Series A,West
+815,Substack,Media,14.000000000000002,Series B,West
+817,Degreed,Education,15.0,Series D,West
+818,HomeLight,Real Estate,19.0,Series D,West
+823,StockX,Retail,8.0,Series E,Midwest
+824,Sidecar Health,Healthcare,40.0,Series C,West
+832,AppLovin,Marketing,12.0,IPO,West
+833,UiPath,Data,5.0,IPO,Northeast
+837,SafeGraph,Data,25.0,Series B,West
+838,Amount,Finance,18.0,Unknown,Midwest
+841,Sunday,Finance,23.0,Series A,South
+842,Bestow,Finance,14.000000000000002,Series C,South
+843,Ethos Life,Finance,12.0,Series D,West
+846,Netflix,Media,3.0,IPO,West
+847,Aura,Security,9.0,Series F,Northeast
+848,Pipl,Security,13.0,Unknown,0
+849,Vouch,Finance,7.000000000000001,Series C,West
+850,Voyage SMS,Marketing,13.0,Unknown,West
+851,Esper,Other,12.0,Series A,West
+854,Orchard,Real Estate,10.0,Series D,Northeast
+855,Ro,Healthcare,18.0,Unknown,Northeast
+857,MasterClass,Education,20.0,Series E,West
+858,IronNet,Security,35.0,IPO,0
+860,IronNet,Security,17.0,IPO,0
+862,Superpedestrian,Transportation,7.000000000000001,Series C,Northeast
+863,Voi,Transportation,10.0,Series D,0
+869,TaskUs,Support,0.0,IPO,West
+870,Community,Marketing,30.0,Unknown,West
+871,Sourcegraph,Product,8.0,Series D,West
+874,Tray.io,Data,10.0,Series C,West
+876,SummerBio,Healthcare,100.0,Unknown,West
+881,Buzzer,Media,20.0,Unknown,Northeast
+887,Socure,Finance,13.0,Series E,0
+888,Finite State,Security,20.0,Series B,Midwest
+889,JOKR,Food,5.0,Series B,Northeast
+890,Zumper,Real Estate,15.0,Series D,West
+892,Circulo Health,Healthcare,50.0,Series A,Midwest
+895,Weee!,Food,10.0,Series E,West
+896,Notarize,Legal,25.0,Series D,Northeast
+898,Tonkean,Other,23.0,Series B,West
+903,JetClosing,Real Estate,100.0,Series B,West
+904,Coinbase,Crypto,18.0,IPO,West
+905,Redfin,Real Estate,8.0,IPO,West
+906,Compass,Real Estate,10.0,IPO,Northeast
+910,TIFIN,Crypto,10.0,Series D,Midwest
+913,BlockFi,Crypto,20.0,Series E,Northeast
+914,Wave Sports and Entertainment,Media,33.0,Series B,West
+915,Studio,Education,40.0,Series B,West
+917,Desktop Metal,Other,12.0,IPO,Northeast
+923,Albert,Finance,8.0,Series C,West
+927,OneTrust,Security,25.0,Series C,South
+928,Stitch Fix,Retail,15.0,IPO,West
+930,Convoy,Logistics,7.000000000000001,Series E,West
+931,Hologram,Infrastructure,40.0,Series B,Midwest
+933,The Grommet,Retail,100.0,Acquired,Northeast
+935,Preply,Education,5.0,Series C,Northeast
+936,Jellysmack,Media,8.0,Series C,Northeast
+937,Starship,Transportation,11.0,Series B,West
+939,Sonder,Travel,21.0,IPO,West
+941,Truepill,Healthcare,15.0,Series D,West
+948,Bird,Transportation,23.0,IPO,West
+955,Dutchie,Other,7.000000000000001,Series D,0
+957,Deep Instinct,Security,10.0,Series D,Northeast
+958,Sendoso,Marketing,14.000000000000002,Series C,West
+960,Superhuman,Consumer,22.0,Series C,West
+961,Food52,Food,15.0,Acquired,Northeast
+964,Tesla,Transportation,10.0,IPO,South
+965,Carbon Health,Healthcare,8.0,Series D,West
+967,PolicyGenius,Finance,25.0,Series E,Northeast
+970,Gemini,Crypto,10.0,Unknown,Northeast
+971,Stord,Logistics,8.0,Series D,South
+972,Gather,Consumer,33.0,Series B,West
+974,IRL,Consumer,25.0,Series C,West
+976,Kaodim,Consumer,100.0,Series B,0
+978,Cybereason,Security,6.0,Series F,Northeast
+982,Loom,Product,14.000000000000002,Series C,West
+986,Side,Real Estate,10.0,Unknown,West
+990,Tomo,Finance,33.0,Series A,Northeast
+992,BookClub,Education,25.0,Series A,West
+1007,Lacework,Security,20.0,Series D,West
+1008,Bolt,Finance,27.0,Series E,West
+1012,Coterie Insurance,Finance,20.0,Series B,Midwest
+1023,ClickUp,Other,7.000000000000001,Series C,West
+1024,Airtime,Consumer,20.0,Series B,Northeast
+1027,Latch,Security,28.000000000000004,IPO,Northeast
+1028,Outside,Media,15.0,Series B,Midwest
+1029,Skillz,Consumer,10.0,IPO,West
+1032,Netflix,Media,1.0,IPO,West
+1034,Picsart,Consumer,8.0,Series C,South
+1035,Zak,Food,40.0,Series A,0
+1040,Subspace,Infrastructure,100.0,Series B,West
+1044,DataRobot,Data,7.000000000000001,Series G,Northeast
+1045,Carvana,Transportation,12.0,IPO,West
+1046,Doma,Finance,15.0,IPO,West
+1048,Latch,Security,6.0,IPO,Northeast
+1049,Vroom,Transportation,14.000000000000002,IPO,Northeast
+1050,Reef,Transportation,5.0,Unknown,South
+1053,Mural,Product,10.0,Series C,West
+1054,On Deck,Education,25.0,Series A,West
+1057,Cameo,Consumer,25.0,Unknown,Midwest
+1058,Mainstreet,Finance,30.0,Series A,West
+1065,Domestika,Education,19.0,Series D,West
+1068,Robinhood,Finance,9.0,IPO,West
+1074,Blend,Finance,10.0,IPO,West
+1078,Automox,Infrastructure,11.0,Series C,Midwest
+1080,Halcyon Health,Healthcare,100.0,Unknown,Northeast
+1081,Ahead,Healthcare,100.0,Unknown,West
+1083,Rad Power Bikes,Transportation,14.000000000000002,Series D,West
+1085,Food52,Food,10.0,Acquired,Northeast
+1089,Fast,Finance,100.0,Series B,West
+1094,Gopuff,Food,3.0,Series H,Northeast
+1097,Grove Collaborative,Retail,17.0,Series E,West
+1101,Knock,Real Estate,46.0,Unknown,Northeast
+1102,Talis Biomedical,Healthcare,25.0,IPO,West
+1103,Sezzle,Finance,20.0,Acquired,Midwest
+1104,Better.com,Real Estate,33.0,Unknown,Northeast
+1105,Adaptive Biotechnologies,Healthcare,12.0,IPO,West
+1106,Hyperscience,Data,25.0,Series E,Northeast
+1108,Wish,Retail,15.0,IPO,West
+1112,Virgin Hyperloop,Transportation,50.0,Unknown,West
+1115,Homie,Real Estate,28.999999999999996,Series B,West
+1117,Peloton,Fitness,20.0,IPO,Northeast
+1119,Rhino,Real Estate,20.0,Unknown,Northeast
+1121,Glossier,Consumer,33.0,Series E,Northeast
+1123,Spin,Transportation,25.0,Acquired,West
