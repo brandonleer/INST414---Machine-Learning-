@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import re
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 West = ['SF Bay Area', 'Salt Lake City', 'Los Angeles', 'Seattle', 'Phoenix', 'Sacremento', 'San Diego', 'Denver', 'Portland']
 Northeast = ['New York City', 'Boston', 'Dover', 'Pittsburg', 'Philadelphia', 'Stamford', 'Washington D.C'] 
@@ -25,3 +27,42 @@ layoffs = layoffs.assign(region=np.select([c1, c2, c3, c4], ['West', 'Northeast'
 
 layoffs = layoffs[layoffs.location != 'London']
 layoffs.to_csv("layoffs_clean.csv")
+
+sns.barplot(y = 'percentage_laid_off', x = 'region', data = layoffs)
+plt.title("Scatterplot of Protein vs. Enrgy")
+plt.xlabel("Energy")
+plt.ylabel("Protein")
+None;
+
+sns.barplot(y = 'percentage_laid_off', x = 'industry', data = layoffs)
+plt.title("Scatterplot of Protein vs. Enrgy")
+plt.xlabel("Energy")
+plt.ylabel("Protein")
+plt.xticks(rotation=90)
+
+None;
+
+sns.barplot(y = 'percentage_laid_off', x = 'stage', data = layoffs)
+plt.title("Scatterplot of Protein vs. Enrgy")
+plt.xlabel("Energy")
+plt.ylabel("Protein")
+plt.xticks(rotation=90)
+
+None;
+
+q1 = layoffs['percentage_laid_off'].quantile(0.25)
+q3 = layoffs['percentage_laid_off'].quantile(0.75)
+IQR = q3-q1
+
+lower_range = (q1-1.5)*IQR
+upper_range = (q3+1.5)*IQR
+
+print(lower_range)
+print(upper_range)
+print(layoffs.boxplot(column=['percentage_laid_off']))
+
+layoffs['region'].value_counts()
+
+layoffs['industry'].value_counts()
+
+layoffs['stage'].value_counts()
