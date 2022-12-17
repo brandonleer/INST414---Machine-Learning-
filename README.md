@@ -1,4 +1,4 @@
-# Leer_INST414_Project- 
+Machine Learning Project 
 
 For many seniors in college and recent new graduates finding a job with little to no experience on your resume, can be a difficult task. On top of this as interest rates increase and the looming threat of recession comes closer, many companies have annouced significant layoffs such as Google, Amazon, Meta, Snap, gopuff, Wells Fargo, and Credit Suisse according to investopedia. These layoffs are only making it more difficlt for seniors and new graduates to get offers, as companies cant afford to hire more employees.  This report aims to analyze factors such as industry, stage of funding, and region with regard to the percentage of employyes laid off. This could allow for new gradiates to focus their job searches where the most oppertuntity is present. 
 
