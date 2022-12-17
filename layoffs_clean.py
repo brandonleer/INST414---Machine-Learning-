@@ -28,28 +28,6 @@ layoffs = layoffs.assign(region=np.select([c1, c2, c3, c4], ['West', 'Northeast'
 layoffs = layoffs[layoffs.location != 'London']
 layoffs.to_csv("layoffs_clean.csv")
 
-sns.barplot(y = 'percentage_laid_off', x = 'region', data = layoffs)
-plt.title("Scatterplot of Protein vs. Enrgy")
-plt.xlabel("Energy")
-plt.ylabel("Protein")
-None;
-
-sns.barplot(y = 'percentage_laid_off', x = 'industry', data = layoffs)
-plt.title("Scatterplot of Protein vs. Enrgy")
-plt.xlabel("Energy")
-plt.ylabel("Protein")
-plt.xticks(rotation=90)
-
-None;
-
-sns.barplot(y = 'percentage_laid_off', x = 'stage', data = layoffs)
-plt.title("Scatterplot of Protein vs. Enrgy")
-plt.xlabel("Energy")
-plt.ylabel("Protein")
-plt.xticks(rotation=90)
-
-None;
-
 q1 = layoffs['percentage_laid_off'].quantile(0.25)
 q3 = layoffs['percentage_laid_off'].quantile(0.75)
 IQR = q3-q1
@@ -66,3 +44,23 @@ layoffs['region'].value_counts()
 layoffs['industry'].value_counts()
 
 layoffs['stage'].value_counts()
+
+sns.barplot(y = 'percentage_laid_off', x = 'region', data = layoffs)
+plt.title("Scatterplot of layoffs per Region")
+plt.xlabel("Region")
+plt.ylabel("Layoff Percentage")
+None;
+
+sns.barplot(y = 'percentage_laid_off', x = 'industry', data = layoffs)
+plt.title("Scatterplot of Percentage Laid Off per Industry")
+plt.xlabel("Industry")
+plt.ylabel("Percentage Laid Off")
+plt.xticks(rotation=90)
+None;
+
+sns.barplot(y = 'percentage_laid_off', x = 'stage', data = layoffs)
+plt.title("Scatterplot of Percentage Laid Off per Stage of Funding")
+plt.xlabel("Stage")
+plt.ylabel("Percentage Laid Off")
+plt.xticks(rotation=90)
+None;
